@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Ana 👩‍💻🌍
 
-<!--
-**ana-sher/ana-sher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer with a background in Python, C#, TypeScript and full-stack development. I’m broadening my focus to scientific computing, climate data analysis, and space-related projects. My goal is to use code and data to understand and improve our world.
 
-Here are some ideas to get you started:
+🔭 What I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Climate Data Analysis & Visualization**: Using Python, xarray, pandas, and open datasets to study climate patterns.  
+**AI/ML for Scientific Applications**: Experimenting with machine learning models to process and analyze satellite and environmental data.  
+**Open-Source Tools**: Contributing and building utilities for researchers and analysts to access, process, and visualize large datasets efficiently.  
+**Dynamic Data Parser & Mapper**: A personal project to parse, map, and clean data from websites and APIs.  
+**danceflo.com**: Web application for studios and choreographers to manage their classes.  
+
+📈 Focus Areas
+
+Climate & Environmental Data Analysis  
+Remote Sensing & Satellite Data  
+AI / ML for Scientific Applications  
+Open-Source Contribution in Science & Climate  
+
