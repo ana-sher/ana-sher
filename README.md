@@ -14,7 +14,7 @@ I’m a software engineer with a background in Python, C#, TypeScript and full-s
 
 Languages: Python (FastAPI, PyTest, SQLAlchemy), TypeScript (NestJS, React, Angular), C# (ASP.NET Core)
 Data Science: scikit-learn, MLFlow, Jupyter Notebooks, pandas, geopandas, xarray, matplotlib
-Cloud & Infrastructure: AWS (S3), Azure (Pipelines, Container App, Web App, Key Vault), Heroku, Docker
+Cloud & Infrastructure: AWS (S3, ECR, ECS, EC2, Lambda), Terraform, Azure (Pipelines, Container App, Web App, Key Vault), Heroku, Docker
 DevOps: GitHub Actions, Azure Pipelines, automated CI/CD tools and libraries
 
-🌱 Currently learning: AWS (ECS, Lambda, EC2, SageMaker), Kubernetes, Terraform, deepening Python and ML-related knowledge as well as remote sensing and geospatial data processing!
+🌱 Currently learning: deepening AWS + Terraform and Kubernetes knowledge, Python and ML-related knowledge as well as remote sensing and geospatial data processing!
